@@ -1,6 +1,6 @@
 ## Own Your Space React Tech Test
 
-Congratulations on being invited to complete the Own Your Space React Technical Test. In this tech test, you will complete a basic task following a simple brief. You will be tested against your code quality, the functionality you produce, the UI quality, overall UX, and the tooling you choose to use.  
+Congratulations on being invited to complete the OYS React Technical Test. In this test, you will complete a basic task following a simple brief. You will be tested against your code quality, the functionality you produce, the UI quality, overall UX, and the tooling you choose to use.  
 
 Please submit your code as a .zip file, do not fork the repo. 
 
@@ -10,7 +10,7 @@ Note, we're not expecting a completed app, the test should be time-boxed to 4 ho
 
 ## The Brief
 
-Own Your Space has been contacted by a prospective client, Last.FM, and they are looking to have their existing web app rebuilt with newer technology. Your task is to build an demo app that will "wow" them.
+Own Your Space has been contacted by a prospective client, Last.fm, and they are looking to have their existing web app rebuilt with newer technology. Your task is to build an demo app that will "wow" them, so we can win their business.
 
 The application should provide the following functionality:
  - have a search box
@@ -33,8 +33,6 @@ Try to be creative, the application can look however you want! This is time to s
 - The API has a rate limit, so bear that in mind when pulling the data
 
 - Your project may be reviewed by someone with limited technical knowledge, so make it easy for them to get it running
-
-- As a bonus, if your app is ready to deploy, even better
 
 - Write at least one unit test and one integration test
 
